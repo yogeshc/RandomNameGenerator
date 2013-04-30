@@ -1,3 +1,11 @@
+__author__ = "Yogesh Chaudhari"
+__copyright__ = "Copyright 2012, Yogesh Chaudhari"
+__license__ = "AGPL"
+__version__ = "3"
+__maintainer__ = "Yogesh Chaudhari"
+__email__ = "mr.yogesh@gmail.com"
+__status__ = "Prototype"
+
 from random import randint
 import sys
 
